@@ -786,5 +786,5 @@ img {
 .modal-form-button-send:hover,
 .modal-form-button-send:focus {
    background-color: var(--button-hover-color);
-   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15)
 }
