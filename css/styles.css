@@ -656,7 +656,7 @@ img {
    margin: 0;
 }
 .modal-title {
-   padding-bottom: 8px;
+   margin-bottom: 8px;
    color: var(--title-color);
    font-size: 16px;
    font-weight: 700;
@@ -685,8 +685,7 @@ img {
    border-color: var(--primery-band);
 }
 .modal-form-label {
-   padding: 8px 0px 4px 0px;
-
+ margin: 8px 0px 4px 0px;
    font-size: 12px;
    line-height: 1.16;
    letter-spacing: 0.01em;
@@ -787,4 +786,7 @@ img {
 .modal-form-button-send:focus {
    background-color: var(--button-hover-color);
    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+}
+.modal-policy {
+   text-decoration: underline;
 }
